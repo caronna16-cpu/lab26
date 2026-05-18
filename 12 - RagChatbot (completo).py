@@ -33,7 +33,7 @@ st.markdown(
 
 st.header("Assistenza online")
 
-st.image("REAL CHATBOT/Chatbot.webp", width=500)
+st.image("Chatbot.webp", width=400)
 
 documento = "REAL CHATBOT/Costituzione_italiana.pdf"
 
